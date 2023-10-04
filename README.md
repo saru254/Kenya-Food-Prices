@@ -5,4 +5,4 @@ This README document provides an overview of the Kenya Food Prices dataset and h
 
 # DATASET OVERVIEW
 * Dataset Name: Kenya-Food Prices Dataset
-Data Source: https://data.humdata.org/dataset/wfp-food-prices-for-kenya)https://data.humdata.org/dataset/wfp-food-prices-for-kenya
+* Data Source: https://data.humdata.org/dataset/wfp-food-prices-for-kenya)https://data.humdata.org/dataset/wfp-food-prices-for-kenya
