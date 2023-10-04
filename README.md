@@ -11,3 +11,7 @@ This README document provides an overview of the Kenya Food Prices dataset and h
 
 ![image](https://github.com/saru254/Kenya-Food-Prices/assets/107751782/3fec16c0-1031-4e7f-b597-f25e90269855)
 
+
+![image](https://github.com/saru254/Kenya-Food-Prices/assets/107751782/03e603b2-37d3-42ad-acf9-940d9de293f5)
+
+
