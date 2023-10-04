@@ -8,12 +8,13 @@ This README document provides an overview of the Kenya Food Prices dataset and h
   
 * Data Source: https://data.humdata.org/dataset/wfp-food-prices-for-kenya)https://data.humdata.org/dataset/wfp-food-prices-for-kenya
 
-
+# count of category by commodity
 ![image](https://github.com/saru254/Kenya-Food-Prices/assets/107751782/3fec16c0-1031-4e7f-b597-f25e90269855)
 
-
+# count of price and pricetype and unit
 ![image](https://github.com/saru254/Kenya-Food-Prices/assets/107751782/03e603b2-37d3-42ad-acf9-940d9de293f5)
 
+# Count of price and first commodity by category. latitude and longitude
 ![image](https://github.com/saru254/Kenya-Food-Prices/assets/107751782/950f562d-c527-40e4-9deb-03c20774dcdd)
 
 
